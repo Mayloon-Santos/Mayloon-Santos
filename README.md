@@ -23,6 +23,7 @@ Recentemente, adquiri conhecimentos sobre o WordPress, utilizando a poderosa fer
 ---
 [![](https://visitcount.itsvg.in/api?id=Mayloon-Santos&icon=2&color=2)](https://visitcount.itsvg.in)
 
- ![Snake animation](https://github.com/Mayloon-Santos/Mayloon-Santos/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/Mayloon-Santos/Mayloon-Santos/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
